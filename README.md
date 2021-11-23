@@ -54,7 +54,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![Screenshot (3)](https://user-images.githubusercontent.com/93427303/143028124-0c07a0f2-bbb4-4a52-9bb7-f0abb7d3e7b3.png)
+![client side output](https://user-images.githubusercontent.com/93427303/143028749-65fc38bd-becc-46c9-9535-8e7eedefdcc8.png)
+![server side output](https://user-images.githubusercontent.com/93427303/143028656-f63c850c-4564-429d-b4ca-f22981a25230.png)
 
 
 ## RESULT:
