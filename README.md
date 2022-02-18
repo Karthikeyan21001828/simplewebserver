@@ -28,7 +28,7 @@ content = """
 C++ is a programming language that extends the C programming language. It's a programming language that combines features from both low-level and high-level languages. The bulk of CAD applications use C++ interfaces. Since mechanical engineering is more closely related to robotics and automation, mechanical engineers can use a programming language like C++.</h2>
 <h2>2. Javascript
 JavaScript is a well-known programming language on the internet. It's also known as the HTML programming language, and it's commonly used on the internet. JavaScript is an easy-to-learn programming language. In fact, it is less complicated than the majority of programming languages. Since HTML and CSS are the foundations of a beautiful website, web developers should learn this programming language as well.
-<h2>
+</h2>
 <h2>3. PHP
 PHP is widely used for server-side web creation when a website requests information from a server on a regular basis. Since PHP is an older programming language, it has a large user community that has developed frameworks, libraries, and automation tools to make it easier to use. Debugging PHP code is also easy.
 </h2>
